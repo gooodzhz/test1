@@ -15,6 +15,7 @@ namespace gittest
             int b;
             int c;
             int d;
+            int f;
         }
     }
 }
