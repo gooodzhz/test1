@@ -11,15 +11,7 @@ namespace gittest
     {
         protected void Application_Start(object sender, EventArgs e)
         {
-            int a;
-            int b;
-            int c;
-            int d;
-            int f;
-            int g;
-            int h;
-            int kl;
-            int j;
+
 
         }
     }
